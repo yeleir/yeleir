@@ -1,12 +1,12 @@
 # 💫 About Me:
 First-year Software Development student passionate about building practical tools and solving real-world problems. 
 Currently focusing on mastering Python and Full-Stack development while maintaining a strong foundation in version control. 
-I enjoy "building in public" and am actively seeking opportunities to contribute to impactful software projects.
+I am actively seeking opportunities to contribute to impactful software projects.
 
-🔭 I’m currently working on a [Moose Sighting Reporter](https://github.com/yeleir/MooseWatch) and a [Windows Volume Limiter](https://github.com/yeleir/windows-volume-launch-limiter).<br>
+🔭 I’m currently working on a [Windows Volume Limiter](https://github.com/yeleir/windows-volume-launch-limiter) and a [Moose Sighting Reporter](https://github.com/yeleir/MooseWatch).<br>
 
 👯 I’m looking to collaborate with other developers on future Python or Web projects.<br>
-🤝 I’m always looking for advice, tips, and tricks to improve my coding fundamentals.<br>
+🤝 I’m always looking for advice, tips, and tricks to improve my code, or fundamentals overall..<br>
 🌱 I’m currently learning Python, HTML/CSS, and Javascript.<br>
 💬 Ask me about anything! <br>
 ⚡ Always active, just feel free to leave me a message or email.
